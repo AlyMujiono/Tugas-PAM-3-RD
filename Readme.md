@@ -28,7 +28,7 @@ pada halaman ini semua data yang mirip dengan inputan akan di tampilkan <br>
     Setelah itu kita klik tombol cari, maka akan di arahkan ke halaman Hasil Pencarian <br>
 
 2.  Tampilan Hasil Pencarian Akan terlihat seperti pada gambar berikut ini :
-    ![](Screenshots/Hasil Pencarian.jpg) <br>
+    ![](Screenshots/Hasil_Pencarian.jpg) <br>
     Pada halaman ini akan menampilkan data-data penerbangan sesuai dengan data yang diinputkan
 
 ## Pembuatan Aplikasi
